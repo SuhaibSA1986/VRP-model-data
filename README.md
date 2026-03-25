@@ -52,4 +52,4 @@ Results will be logged here as each period concludes.
 
 ## Contact
 
-Licensing enquiries: [YOUR EMAIL]
+Licensing enquiries: [texanaladdin86@gmail.com]
